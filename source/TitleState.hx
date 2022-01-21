@@ -480,7 +480,7 @@ class TitleState extends MusicBeatState
 				// credTextShit.text = 'In association \nwith';
 				// credTextShit.screenCenter();
 				case 5:
-					createCoolText(['This is a modpack to'], -60);
+					createCoolText(['This is a mod to'], -60);
 				case 7:
 					addMoreText('This game right below lol', -60);
 					logoSpr.visible = true;
@@ -504,13 +504,13 @@ class TitleState extends MusicBeatState
 				// credTextShit.text = "Friday";
 				// credTextShit.screenCenter();
 				case 13:
-					addMoreText('HexFalc');
+					addMoreText('Friday');
 				// credTextShit.visible = true;
 				case 14:
-					addMoreText(Modpack'');
+					addMoreText('Night');
 				// credTextShit.text += '\nNight';
 				case 15:
-					addMoreText('Lol'); // credTextShit.text += '\nFunkin';
+					addMoreText('Funkin'); // credTextShit.text += '\nFunkin';
 
 				case 16:
 					skipIntro();

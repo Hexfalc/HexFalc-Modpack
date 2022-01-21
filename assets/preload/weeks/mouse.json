@@ -1,0 +1,31 @@
+{
+	"storyName": "walt disney presents '",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"ol'-uncle-willie",
+			"celery",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"menu",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

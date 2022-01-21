@@ -79,7 +79,7 @@ class ChartingState extends MusicBeatState
 		['Screen Shake', "Value 1: Camera shake\nValue 2: HUD shake\n\nEvery value works as the following example: \"1, 0.05\".\nThe first number (1) is the duration.\nThe second number (0.05) is the intensity."],
 		['Change Character', "Value 1: Character to change (Dad, BF, GF)\nValue 2: New character's name"],
 		['Cam Boom Speed', "Value 1: Speed,Value 2: Intensity"],
-		['Cam Boom Speed', "Sets Camera Zoom,Value 1: Cam zoom,Value 2: if blank, it will smoothly zoom regularly,otherwise it will do an instant zoom"]
+		['Set Cam Zoom', "Sets Camera Zoom,Value 1: Cam zoom,Value 2: if blank, it will smoothly zoom regularly,otherwise it will do an instant zoom"]
 	];
 
 	var _file:FileReference;

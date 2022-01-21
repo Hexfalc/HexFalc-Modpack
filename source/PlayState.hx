@@ -900,8 +900,8 @@ class PlayState extends MusicBeatState
 		iconP2.visible = !ClientPrefs.hideHud;
 		add(iconP2);
 		reloadHealthBarColors();
-
-		scoreTxt = new FlxText(0, healthBarBG.y + 36, FlxG.width, "", 20);
+        
+        scoreTxt = new FlxText(0, healthBarBG.y + 36, FlxG.width, "", 20);
 		scoreTxt.setFormat(Paths.font("vcr.ttf"), 20, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		scoreTxt.scrollFactor.set();
 		scoreTxt.borderSize = 1.25;
@@ -1978,9 +1978,9 @@ class PlayState extends MusicBeatState
 		super.update(elapsed);
 
 		if(ratingString == '?') {
-			scoreTxt.text = 'Score: ' + songScore + ' | Misses: ' + songMisses + ' | Rating: ' + ratingString;
+			scoreTxt.text = 'Your Score: ' + songScore + ' | ComboBreaks: ' + songMisses + ' | Modpack by HexFalc | Your Rating: ' + ratingString;
 		} else {
-			scoreTxt.text = 'Score: ' + songScore + ' | Misses: ' + songMisses + ' | Rating: ' + ratingString + ' (' + Math.floor(ratingPercent * 100) + '%)';
+			scoreTxt.text = 'Your Score: ' + songScore + ' | ComboBreaks: ' + songMisses + ' | Modpack by HexFalc | Your Rating: ' + ratingString + ' (' + Math.floor(ratingPercent * 100) + '%)';
 		}
 
 		if(cpuControlled) {

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Micky_idle_assets.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle mouse0000" x="0" y="0" width="562" height="683"/>
+	<SubTexture name="idle mouse0001" x="0" y="0" width="562" height="683"/>
+	<SubTexture name="idle mouse0002" x="562" y="0" width="562" height="683"/>
+	<SubTexture name="idle mouse0003" x="562" y="0" width="562" height="683"/>
+	<SubTexture name="idle mouse0004" x="1124" y="0" width="562" height="683"/>
+	<SubTexture name="idle mouse0005" x="1124" y="0" width="562" height="683"/>
+	<SubTexture name="idle mouse0006" x="1686" y="0" width="562" height="683"/>
+	<SubTexture name="idle mouse0007" x="1686" y="0" width="562" height="683"/>
+	<SubTexture name="idle mouse0008" x="2248" y="0" width="562" height="683"/>
+	<SubTexture name="idle mouse0009" x="2248" y="0" width="562" height="683"/>
+	<SubTexture name="idle mouse0010" x="2248" y="0" width="562" height="683"/>
+	<SubTexture name="idle mouse0011" x="2248" y="0" width="562" height="683"/>
+	<SubTexture name="idle mouse0012" x="2248" y="0" width="562" height="683"/>
+	<SubTexture name="idle mouse0013" x="2248" y="0" width="562" height="683"/>
+	<SubTexture name="mickey down0000" x="2810" y="0" width="562" height="683"/>
+	<SubTexture name="mickey down0001" x="2810" y="0" width="562" height="683"/>
+	<SubTexture name="mickey down0002" x="3372" y="0" width="562" height="683"/>
+	<SubTexture name="mickey down0003" x="3372" y="0" width="562" height="683"/>
+	<SubTexture name="mickey down0004" x="0" y="683" width="562" height="683"/>
+	<SubTexture name="mickey down0005" x="0" y="683" width="562" height="683"/>
+	<SubTexture name="mickey down0006" x="0" y="683" width="562" height="683"/>
+	<SubTexture name="mickey down0007" x="0" y="683" width="562" height="683"/>
+	<SubTexture name="mickey down0008" x="0" y="683" width="562" height="683"/>
+	<SubTexture name="mickey down0009" x="0" y="683" width="562" height="683"/>
+	<SubTexture name="mickey down0010" x="0" y="683" width="562" height="683"/>
+	<SubTexture name="mickey left0000" x="562" y="683" width="562" height="683"/>
+	<SubTexture name="mickey left0001" x="1124" y="683" width="562" height="683"/>
+	<SubTexture name="mickey left0002" x="1686" y="683" width="562" height="683"/>
+	<SubTexture name="mickey left0003" x="2248" y="683" width="562" height="683"/>
+	<SubTexture name="mickey left0004" x="2248" y="683" width="562" height="683"/>
+	<SubTexture name="mickey left0005" x="2248" y="683" width="562" height="683"/>
+	<SubTexture name="mickey left0006" x="2248" y="683" width="562" height="683"/>
+	<SubTexture name="mickey left0007" x="2248" y="683" width="562" height="683"/>
+	<SubTexture name="mickey left0008" x="2248" y="683" width="562" height="683"/>
+	<SubTexture name="mickey right0000" x="2810" y="683" width="562" height="683"/>
+	<SubTexture name="mickey right0001" x="2810" y="683" width="562" height="683"/>
+	<SubTexture name="mickey right0002" x="3372" y="683" width="562" height="683"/>
+	<SubTexture name="mickey right0003" x="0" y="1366" width="562" height="683"/>
+	<SubTexture name="mickey right0004" x="0" y="1366" width="562" height="683"/>
+	<SubTexture name="mickey right0005" x="0" y="1366" width="562" height="683"/>
+	<SubTexture name="mickey right0006" x="0" y="1366" width="562" height="683"/>
+	<SubTexture name="mickey right0007" x="0" y="1366" width="562" height="683"/>
+	<SubTexture name="mickey right0008" x="0" y="1366" width="562" height="683"/>
+	<SubTexture name="mickey right0009" x="0" y="1366" width="562" height="683"/>
+	<SubTexture name="mickey up0000" x="562" y="1366" width="581" height="683"/>
+	<SubTexture name="mickey up0001" x="562" y="1366" width="581" height="683"/>
+	<SubTexture name="mickey up0002" x="1143" y="1366" width="580" height="683" frameX="-1" frameY="0" frameWidth="581" frameHeight="683"/>
+	<SubTexture name="mickey up0003" x="1143" y="1366" width="580" height="683" frameX="-1" frameY="0" frameWidth="581" frameHeight="683"/>
+	<SubTexture name="mickey up0004" x="1723" y="1366" width="580" height="683" frameX="-1" frameY="0" frameWidth="581" frameHeight="683"/>
+	<SubTexture name="mickey up0005" x="1723" y="1366" width="580" height="683" frameX="-1" frameY="0" frameWidth="581" frameHeight="683"/>
+	<SubTexture name="mickey up0006" x="1723" y="1366" width="580" height="683" frameX="-1" frameY="0" frameWidth="581" frameHeight="683"/>
+	<SubTexture name="mickey up0007" x="1723" y="1366" width="580" height="683" frameX="-1" frameY="0" frameWidth="581" frameHeight="683"/>
+	<SubTexture name="mickey up0008" x="1723" y="1366" width="580" height="683" frameX="-1" frameY="0" frameWidth="581" frameHeight="683"/>
+	<SubTexture name="mickey up0009" x="1723" y="1366" width="580" height="683" frameX="-1" frameY="0" frameWidth="581" frameHeight="683"/>
+	<SubTexture name="mickey up0010" x="1723" y="1366" width="580" height="683" frameX="-1" frameY="0" frameWidth="581" frameHeight="683"/>
+	<SubTexture name="mickey up0011" x="1723" y="1366" width="580" height="683" frameX="-1" frameY="0" frameWidth="581" frameHeight="683"/>
+</TextureAtlas>
